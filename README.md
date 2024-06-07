@@ -173,6 +173,7 @@ To use the trained model for predicting fraud on new transactions, you can run t
 - [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) for providing the dataset.
 - [Imbalanced-learn](https://imbalanced-learn.org/stable/) for resampling techniques.
 - [Scikit-learn](https://scikit-learn.org/) for machine learning tools and algorithms.
+- [Pycaret](https://pycaret.org/) for training data on various models simultaneously.
 
 - [CodSoft](https://www.codsoft.in/) for the opportunity to work on this project.
 
