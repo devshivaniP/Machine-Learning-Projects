@@ -77,7 +77,6 @@ To use the trained model for predicting fraud on new movies or users, you can ru
 
 - [Scikit-learn](https://scikit-learn.org/) for machine learning tools and algorithms.
 
-- [CodSoft](https://www.codsoft.in/) for the opportunity to work on this project.
 
 
 ## Iris Flower Classification
@@ -123,8 +122,6 @@ To use the trained model for predicting fraud on new iris samples, you can run t
 - [Kaggle](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) for providing the dataset.
 
 - [Scikit-learn](https://scikit-learn.org/) for machine learning tools and algorithms.
-
-- [CodSoft](https://www.codsoft.in/) for the opportunity to work on this project.
 
 
 
