@@ -1,11 +1,3 @@
-# Internship Projects
-
-## Overview
-
-Welcome to the repository for the projects I developed during my internship at CodSoft. This README file provides an overview of the projects, including their purpose, key features, technologies used, and instructions for setup and usage.
-
-## Table of Contents
-
 1. [Movie Rating Prediction](#movie-rating-prediction)
     - [Purpose](#purpose)
     - [Dataset](#dataset)
